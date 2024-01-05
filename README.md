@@ -3,7 +3,7 @@ This is a simple bot that uses the Google Bard neural network as a response gene
 ## Installing dependencies
 - Create a virtual environment and install dependencies with `pip install -r requirements.txt`
 ## Telegram Bot token
-- Get new TOKEN for your own telegram bot from FatherBot in telegram
+- Get new `TOKEN` for your own telegram bot from FatherBot in telegram
 ## Google Bard Token
 Go to https://bard.google.com/ `(for people from Russian use Proxy or VPN)`
 - F12 for open console in browser
